@@ -100,19 +100,6 @@ return 0;
 ![image](https://github.com/user-attachments/assets/1614dd9c-3669-4b51-ab2c-a9bbdc0c20d8)
 
 
-
-
-
-
-
-
-
-## OUTPUT
-
-
-
-
-
 # RESULT:
 The commands/batch files are executed successfully.
 
